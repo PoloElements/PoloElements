@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PoloElements
+- 👀 I’m interested in blockchain, games, sports, you name it! 
+- 🌱 I’m currently learning Solidity and blockchain development <3
